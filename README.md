@@ -4,10 +4,6 @@
 - [x] **[Create EC2](https://github.com/DanielFarag/terraform-ec2)**: EC2 Instance with Custom Network Interface in AWS.
 
 
-### <img src="./images/gcp.png" width="20"> <img src="./images/terraform.png" width="20"> **GCP + Terraform Projects**
-- [x] **[3-tier application](https://github.com/DanielFarag/terraform-aws-scalable-app-infra-gcp)**: Provision a 3-tier application infrastructure on GCP with custom VPC, public and private subnets, firewall rules, and Cloud NAT.
-
-
 
 ### <img src="./images/k8s.png" width="20"> **Kubernetes Projects**
 - [x]  **[Ingress-Like operator: Nginx Proxy](https://github.com/DanielFarag/k8s-ingress-controller)**: A custom controller that build a simple nginx proxy server.  
