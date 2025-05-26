@@ -4,6 +4,8 @@
 - [x] **[Create EC2](https://github.com/DanielFarag/terraform-ec2)**: EC2 Instance with Custom Network Interface in AWS.
 
 
+### <img src="./images/gcp.png" width="20"> <img src="./images/terraform.png" width="20"> **GCP + Terraform Projects**
+- [x] **[gcp-secure-gke-network](https://github.com/danielfarag/gke-private-subnet-deployment)**:: Provision a highly secure GCP infrastructure featuring a private GKE cluster within a restricted subnet, an isolated management subnet with NAT, and public exposure via an HTTP Load Balancer, all configured with Terraform.
 
 ### <img src="./images/k8s.png" width="20"> **Kubernetes Projects**
 - [x]  **[Ingress-Like operator: Nginx Proxy](https://github.com/DanielFarag/k8s-ingress-controller)**: A custom controller that build a simple nginx proxy server.  
