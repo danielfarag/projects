@@ -1,7 +1,9 @@
 # 🌟 Projects
 
 ### <img src="./images/aws.png" width="20"> <img src="./images/terraform.png" width="20"> **AWS + Terraform Projects**
+- [x] **[3-tier application deployment with github-actions CICD](https://github.com/danielFarag/aws-3-tier-cicd)**: Provision 3 tier application infrastructure with public/private subnets, security groups, NAT and SSM for configuration and Implement a simple CI/CD using Github actions.
 - [x] **[Create EC2](https://github.com/DanielFarag/terraform-ec2)**: EC2 Instance with Custom Network Interface in AWS.
+- [x] **[EC2 Slack Notifier](https://github.com/DanielFarag/ec2-slack-notifier)**: Monitor EC2 instance state changes using AWS Lambda & EventBridge, then send alerts to Slack via webhook.
 
 
 ### <img src="./images/gcp.png" width="20"> <img src="./images/terraform.png" width="20"> **GCP + Terraform Projects**
