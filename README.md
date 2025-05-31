@@ -2,7 +2,7 @@
 
 ### <img src="./images/aws.png" width="20"> <img src="./images/terraform.png" width="20"> **AWS + Terraform Projects**
 - [x] **[3-tier application deployment with github-actions CICD](https://github.com/danielFarag/aws-3-tier-cicd)**: Provision 3 tier application infrastructure with public/private subnets, security groups, NAT and SSM for configuration and Implement a simple CI/CD using Github actions.
-- [x]**[AWS CSV Pipeline using Glue, s3 and rds](https://github.com/danielfarag/aws-csv-pipeline-glue-s3-rds)**: automated Extract, Transform, Load (ETL) pipeline using RDS (MySQL) as a data target, AWS Glue for data cataloging and transformations, Amazon S3 for data staging and script storage, and AWS Lambda and CloudWatch Events for workflow orchestration and notifications.
+- [x] **[AWS CSV Pipeline using Glue, s3 and rds](https://github.com/danielfarag/aws-csv-pipeline-glue-s3-rds)**: automated Extract, Transform, Load (ETL) pipeline using RDS (MySQL) as a data target, AWS Glue for data cataloging and transformations, Amazon S3 for data staging and script storage, and AWS Lambda and CloudWatch Events for workflow orchestration and notifications.
 - [x] **[Create EC2](https://github.com/DanielFarag/terraform-ec2)**: EC2 Instance with Custom Network Interface in AWS.
 - [x] **[EC2 Slack Notifier](https://github.com/DanielFarag/ec2-slack-notifier)**: Monitor EC2 instance state changes using AWS Lambda & EventBridge, then send alerts to Slack via webhook.
 
