@@ -8,6 +8,7 @@
 
 
 ### <img src="./images/gcp.png" width="20"> <img src="./images/terraform.png" width="20"> **GCP + Terraform Projects**
+- [x] **[Automated GKE Deployment with GitOps](https://github.com/danielfarag/iti-gke-gitops)**:: This project provides a comprehensive Terraform and GitHub Actions solution to deploy a GKE cluster and manage its applications (Helm charts, ArgoCD Applications, k8s resources ) using a GitOps workflow.
 - [x] **[gcp-secure-gke-network](https://github.com/danielfarag/gke-private-subnet-deployment)**:: Provision a highly secure GCP infrastructure featuring a private GKE cluster within a restricted subnet, an isolated management subnet with NAT, and public exposure via an HTTP Load Balancer, all configured with Terraform.
 
 ### <img src="./images/k8s.png" width="20"> **Kubernetes Projects**
