@@ -4,9 +4,7 @@
 - [x] **[3-tier application deployment with github-actions CICD](https://github.com/danielFarag/aws-3-tier-cicd)**: Provision 3 tier application infrastructure with public/private subnets, security groups, NAT and SSM for configuration and Implement a simple CI/CD using Github actions.
 - [x] **[AWS CSV Pipeline using Glue, s3 and rds](https://github.com/danielfarag/aws-csv-pipeline-glue-s3-rds)**: automated Extract, Transform, Load (ETL) pipeline using RDS (MySQL) as a data target, AWS Glue for data cataloging and transformations, Amazon S3 for data staging and script storage, and AWS Lambda and CloudWatch Events for workflow orchestration and notifications.
 - [x] **[Jenkins Master-Slave Architecture on AWS](https://github.com/danielfarag/jenkins-aws-private-master-ssm-slaves)**: This project deploys a Jenkins master-slave architecture on AWS using Terraform. It leverages AWS Systems Manager (SSM) for secure access to instances and automates the setup of Jenkins agents using auto-scaling groups, including automatic registration of new nodes and the capability to manage disconnected nodes.
-- [x] **[Create EC2](https://github.com/DanielFarag/terraform-ec2)**: EC2 Instance with Custom Network Interface in AWS.
 - [x] **[EC2 Slack Notifier](https://github.com/DanielFarag/ec2-slack-notifier)**: Monitor EC2 instance state changes using AWS Lambda & EventBridge, then send alerts to Slack via webhook.
-
 
 ### <img src="./images/gcp.png" width="20"> <img src="./images/terraform.png" width="20"> **GCP + Terraform Projects**
 - [x] **[Automated GKE Deployment with GitOps](https://github.com/danielfarag/iti-gke-gitops)**:: This project provides a comprehensive Terraform and GitHub Actions solution to deploy a GKE cluster and manage its applications (Helm charts, ArgoCD Applications, k8s resources ) using a GitOps workflow.
@@ -22,9 +20,9 @@
 
 
 ### <img src="./images/ansible.png" width="20"> **Ansible Projects**
+- [x] **[Bastion SSH Setup with Terraform & Ansible](https://github.com/DanielFarag/aws-bastion-ssh-setup)**: This project provisions an AWS environment using Terraform and configures SSH access using Ansible. Automates SSH key generation and distribution to allow transparent access to private hosts via the bastion
 - [x]  **[Jenkins Ansible Playbook](https://github.com/danielfarag/ansible-jenkins-ec2)**: This Ansible project automates the installation of Jenkins and Java on Debian or RedHat-based systems. It includes role-based tasks and supports installing Jenkins plugins defined in variables.  
-
-
+- [x]  **[iti.jump Ansible Plugin](https://github.com/danielfarag/jump-ansible-plugin)**: This Ansible plugin simplifies the process of connecting to private EC2 instances through a bastion host. It automates SSH config generation and public key distribution, allowing seamless SSH access from a bastion to private instances..  
 
 
 ### <img src="./images/programming.webp" width="20"> **Programming Projects**
