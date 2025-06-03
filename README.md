@@ -13,18 +13,21 @@
 - [x] **[gcp-secure-gke-network](https://github.com/danielfarag/gke-private-subnet-deployment)**:: Provision a highly secure GCP infrastructure featuring a private GKE cluster within a restricted subnet, an isolated management subnet with NAT, and public exposure via an HTTP Load Balancer, all configured with Terraform.
 
 ### <img src="./images/k8s.png" width="20"> **Kubernetes Projects**
-- [x]  **[Ingress-Like operator: Nginx Proxy](https://github.com/DanielFarag/k8s-ingress-controller)**: A custom controller that build a simple nginx proxy server.  
-
+- [x]  **[Ingress-Like operator: Nginx Proxy](https://github.com/DanielFarag/k8s-ingress-controller)**: A custom controller that build a simple nginx proxy server.
+- [x]  **[Custom Resources for Vault Integration](https://github.com/danielfarag/k8s-vault-controller)**: A custom Kubernetes controller that syncs secrets from HashiCorp Vault to Kubernetes Secrets using CRDs.
 
 ### <img src="./images/docker.png" width="20"> **Docker Projects**
 - [x]  **[Dockerize a Laravel Project](https://github.com/DanielFarag/dockerize-laravel-demo)**: Containerize Laravel/Mysql/PhpMyadmin/Nginx/Vue application.  
 - [x]  **[Dockerize a Node Project](https://github.com/DanielFarag/presentation-demo)**: Containerize a Node/Mysql/PhpMyadmin/Nginx/Angular application.  
-- [x]  **[Dockerize a Jenkins](https://github.com/DanielFarag/dockerize-jenkins)**: Containerize a Jenkins pipeline ( `TOOD` allow to run as POD ).  
+
+
+### <img src="./images/ansible.png" width="20"> **Ansible Projects**
+- [x]  **[Jenkins Ansible Playbook](https://github.com/danielfarag/ansible-jenkins-ec2)**: This Ansible project automates the installation of Jenkins and Java on Debian or RedHat-based systems. It includes role-based tasks and supports installing Jenkins plugins defined in variables.  
+
 
 
 
 ### <img src="./images/programming.webp" width="20"> **Programming Projects**
-
 - [x]  **[Ticket Management System (Laravel)](https://github.com/danielfarag/ticket-management-system)**: Provides functionalities like creating, listing, and deleting tickets and provide support platform for agents and administrators.
 - [x]  **[Bookstore (Node.js)](https://github.com/DanielFarag/bookstore)**: Develop a CRUD app consists of Books, Users, Reviews for managing library data using Express.js.
 - [x]  **[DBMS (Bash)](https://github.com/DanielFarag/dbms-bash)**: Provides basic functionalities like creating, listing, and deleting databases, as well as managing tables.
